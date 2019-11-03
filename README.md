@@ -26,3 +26,7 @@ The `src/main.rs` crate file is annotated with various notes and links to the Ru
 - [Macros](https://doc.rust-lang.org/1.7.0/book/macros.html)
 - [Macro import/export](https://doc.rust-lang.org/1.7.0/book/macros.html#scoping-and-macro-importexport)
 - [Methods](https://doc.rust-lang.org/1.7.0/book/method-syntax.html)
+
+# License
+
+MIT
