@@ -13,6 +13,8 @@ cargo run
 
 - Access http://localhost:8000
 
+![](img/preview.png)
+
 ## Notes
 
 The `src/main.rs` crate file is annotated with various notes and links to the Rust language documentation. Just me trying to understand the many concepts of Rust used in this "Hello, world!" example, e.g.:
