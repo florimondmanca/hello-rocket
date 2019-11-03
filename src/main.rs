@@ -43,7 +43,17 @@ See: https://www.quora.com/Why-does-Rust-have-two-different-string-types-static-
 */
 #[rocket::get("/")]
 fn index() -> &'static str {
-    "Hello, world!"
+    "
+    Hello, world!
+
+    USAGE
+
+        GET /
+            The home page (you are here).
+        
+        GET /public/hello.txt
+            An example static file.
+    "
 }
 
 /*
